@@ -1,4 +1,4 @@
-//Written by Maggie Jiang, Jian0886
+
 
 import java.util.Queue;
 import java.util.Random;
