@@ -1,4 +1,4 @@
-//Written by Maggie Jiang, Jian0886
+
 
 //Import Section
 import java.util.Random;
